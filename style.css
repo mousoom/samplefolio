@@ -329,7 +329,7 @@
       padding:15px 0;
       font-size: 16px;
       border-bottom: 1px solid #18ec32;
-      color: #ec1853;
+      color: #10af23;
 }
 .about-content .personal .info p span{
 	font-size: 14px;
@@ -387,7 +387,7 @@
 	max-width: 40%;
 }
 .about-content .skills .skill-name{
-	color: #ec1853;
+	color: #10af23;
 	font-size: 16px;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -411,7 +411,7 @@
 	content: attr(per);
 	position: absolute;
 	padding: 4px 5px ;
-	background-color: #18ec32;
+	background-color: #10af23;
 	color: #000;
 	border-radius: 4px;
 	top: -32px;
@@ -423,7 +423,7 @@
 	position: absolute;
 	width: 10px;
 	height: 10px;
-	background-color:#18ec32;
+	background-color:#10af23;
 	top:-12px;
 	right: 0;
 	transform:translateX(10%) rotate(45deg);
@@ -439,7 +439,7 @@
 	margin-top:60px;
 }
 .about-content h3.title{
-    color: #ec1853;
+    color: #10af23;
     font-size: 30px;
     margin-bottom: 10px;
     font-weight: 700;	
@@ -473,7 +473,7 @@
 	height: 100%;
 	left: 0;
 	top: 0;
-	background-color: #ec1853;
+	background-color: #18ec32;
 }
 .about-content .timeline .circle-dot{
 	position: absolute;
@@ -481,7 +481,7 @@
 	top:0;
 	height: 15px;
 	width: 15px;
-	background-color:#ec1853;
+	background-color:#18ec32;
 	left: -7px;
 	border-radius: 50%;
 }
