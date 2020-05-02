@@ -209,6 +209,7 @@
    	transition: .3s;
    	outline: none;
    	background-color:#000;
+	-webkit-tap-highlight-color:transparent;
    	box-shadow: 0 5px 4px rgba(236,24,57,0.5);
 }
 .home .intro .social-links a:hover{
@@ -358,6 +359,7 @@
 	outline: none;
 	border: 1px solid #18cfec;
 	cursor: pointer;
+	-webkit-tap-highlight-color:transparent;
 }
 .btn:hover{
 	transition: 0.2s ease;
@@ -614,6 +616,7 @@
   cursor: pointer;
   font-size: 18px;
   font-weight: bold;
+  -webkit-tap-highlight-color:transparent;
   transition-duration: 0.4s;
   font-family: 'Raleway', sans-serif;
 }
