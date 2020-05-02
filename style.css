@@ -601,6 +601,9 @@
     justify-content: center;
 	box-sizing: border-box;
 }
+.project-content a{
+  -webkit-tap-highlight-color:transparent;
+}
 .project-content button{
   margin:30px;
   position: relative;
@@ -616,11 +619,12 @@
   cursor: pointer;
   font-size: 18px;
   font-weight: bold;
-  -webkit-tap-highlight-color:transparent;
   transition-duration: 0.4s;
+   -webkit-tap-highlight-color:transparent;
   font-family: 'Raleway', sans-serif;
 }
 .project-content button:hover{
+	-webkit-tap-highlight-color:transparent;
 	background-color: crimson;
 	color: #000;
 }
@@ -761,6 +765,9 @@ textarea,input,select{
 	}
 }
 @media(max-width:767px){
+	.home .intro .social-links a:hover{
+	transform: translate(0,0);
+    } 
 	.about-content .personal {
 	margin:10px;
 	-ms-flex:0 0 100%;
