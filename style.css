@@ -304,7 +304,7 @@
     font-weight: 700;
 }
 .about-content .about-text h3 span{
-	color: #ec1818;
+	color: #ec1853;
 }
 .about-content .about-text p{
     font-size: 16px;
@@ -329,7 +329,7 @@
       padding:15px 0;
       font-size: 16px;
       border-bottom: 1px solid #18ec32;
-      color: #18ec32;
+      color: #ec1853;
 }
 .about-content .personal .info p span{
 	font-size: 14px;
@@ -387,7 +387,7 @@
 	max-width: 40%;
 }
 .about-content .skills .skill-name{
-	color: #18ec32;
+	color: #ec1853;
 	font-size: 16px;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -439,7 +439,7 @@
 	margin-top:60px;
 }
 .about-content h3.title{
-    color: #ec1818;
+    color: #ec1853;
     font-size: 30px;
     margin-bottom: 10px;
     font-weight: 700;	
@@ -473,7 +473,7 @@
 	height: 100%;
 	left: 0;
 	top: 0;
-	background-color: #18ec32;
+	background-color: #ec1853;
 }
 .about-content .timeline .circle-dot{
 	position: absolute;
@@ -481,7 +481,7 @@
 	top:0;
 	height: 15px;
 	width: 15px;
-	background-color:#18ec32;
+	background-color:#ec1853;
 	left: -7px;
 	border-radius: 50%;
 }
@@ -639,7 +639,7 @@
 }
 .contact .contact-info-item .icon .fa{
 	font-size: 40px;
-	color: #18ec32;
+	color: #ec1853;
 }
 .contact .contact-info-item h4{
 	color: #18cfec;
